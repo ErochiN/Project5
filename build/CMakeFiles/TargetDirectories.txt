@@ -1,0 +1,3 @@
+C:/Users/Alexey/source/repos/Project5/build/CMakeFiles/project.dir
+C:/Users/Alexey/source/repos/Project5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alexey/source/repos/Project5/build/CMakeFiles/ZERO_CHECK.dir
